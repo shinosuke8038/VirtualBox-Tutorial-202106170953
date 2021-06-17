@@ -1,13 +1,5 @@
-# 同フォルダ内にある「OracleVM VirtualBoxのインストール手順＜Windows向け＞ - IT入門書籍 スッキリシリーズ.mht」を参考にインストールを実施。
+下記手順を参考にインストールを実施。  
+※2021/6/17にインストール実施し、インストールしたバージョンは「VirtualBox-6.1.22-144080-Win」。
+<br><br><br>
 
-
-
-1.「OracleVM VirtualBoxのインストール手順＜Windows向け＞ - IT入門書籍 スッキリシリーズ.mht」をクリック
-　→「 VirtualBox-Tutorial-202106170953/01.VirtualBoxのインストール/OracleVM VirtualBoxのインストール手順＜Windows向け＞ - IT入門書籍 スッキリシリーズ.mht 」画面が表示される
-
-<br><br>
-
-2.「Download」をクリック
-
-<br><br>
-
+https://sukkiri.jp/technologies/virtualizers/virtualbox/virtualbox-win_install.html
